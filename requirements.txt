@@ -1,0 +1,7 @@
+aiohttp
+numpy
+pandas
+rfc8785
+rich
+tenacity
+aiosqlite
